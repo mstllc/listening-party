@@ -9,7 +9,7 @@
     "start": "npm run build && electron dist/electron/index.js"
   },
   "dependencies": {
-    "electron": "^8.1.1",
+    "electron": "^11.5.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
